@@ -1,0 +1,5 @@
+server:
+  port: 8123
+  tomcat:
+    threads:
+      max: 1000
