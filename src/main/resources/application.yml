@@ -3,3 +3,9 @@ server:
   tomcat:
     threads:
       max: 1000
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost/test
+    username: root
+    password: "Chen2002@"
